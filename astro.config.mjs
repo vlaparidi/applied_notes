@@ -10,6 +10,7 @@ import { SITE_URL } from "./src/consts";
 export default defineConfig({
   site: SITE_URL,
   integrations: [mdx(), sitemap()],
+  devToolbar: { enabled: false },
   vite: {
     plugins: [tailwindcss()],
   },
