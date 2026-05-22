@@ -4,7 +4,10 @@ description: "Wie wir durch künstliche Intelligenz nicht das Denken verlieren s
 date: "2025-10-15"
 ---
 
-# Der Medienalarm – und was wirklich dahinter steckt
+# AI macht uns nicht dümmer – aber sie kann uns bequem machen
+Wie wir durch künstliche Intelligenz nicht das Denken verlieren sondern lernen müssen Verantwortung neu zu definieren.
+
+## Der Medienalarm – und was wirklich dahinter steckt
 
 Immer wieder ist zu lesen, Künstliche Intelligenz könne uns das Denken abtrainieren.
 
@@ -16,7 +19,7 @@ Das Ergebnis: geringere neuronale Aktivierung bei Nutzung von AI-Unterstützung.
 
 Vielmehr zeigt die Studie, dass Entlastung messbar ist, das ist zunächst wertneutral.
 
-# Die alte Angst vor der „Denkfaulheit“
+## Die alte Angst vor der „Denkfaulheit“
 
 Diese Sorge ist nicht neu. Sie klingt für mich sogar vertraut. Auch als Google groß wurde, stand man im Verdacht zu verblöden, weil man sich weniger gemerkt hatte und häufiger Dinge googelte oder sich von Maps leiten ließ. Ich glaube, viele in meinem Alter kennen diesen Vorwurf noch. (Und ja, ich weiß, dass ihr euch eure Telefonnummer immer noch nicht gemerkt habt.)
 
@@ -34,7 +37,7 @@ Informationen werden ausgelagert um Denkressourcen gezielt zu nutzen. Das bringt
 
   
 
-# Das Gehirn als Effizienzorgan
+## Das Gehirn als Effizienzorgan
 
 Das menschliche Gehirn ist kein Muskel, der bei Entlastung verkümmert.  
 Vielmehr ist es ein Energieökonom, welcher die Aufgaben abgibt, die sich automatisieren und auslagern lassen und investiert die Energie wo es sich lohnt. Als Betriebswirt ziemlich ansprechend.
@@ -45,7 +48,7 @@ Doch genau hier liegt das Risiko: Was als Effizienz beginnt, kann in Bequemlichk
 
   
 
-# Der Unterschied zwischen Denken und Delegieren
+## Der Unterschied zwischen Denken und Delegieren
 
 Ich nutze AI oft für Analysen oder Entwürfe. Aber ich zwinge mich, den Output zu hinterfragen. Logisch, argumentativ, häufig sogar mithilfe einer AI selbst: „Kritisiere deinen eigenen Output. Wo sind Lücken, Gegenargumente, falsche Annahmen?“
 
@@ -54,13 +57,13 @@ Erst dann wird aus AI-Output mein eigenes Urteil.
 
   
 
-# Verantwortung lässt sich nicht outsourcen
+## Verantwortung lässt sich nicht outsourcen
 
 AI kann Denkprozesse beschleunigen – aber nicht verantworten. Am Ende stehe ich für das, was ich veröffentliche. Nicht das Tool.
 
 Deshalb ist der entscheidende Punkt nicht, ob AI uns entlastet, sondern ob wir mit dieser Entlastung reflektiert umgehen.
 
-# Die neue Kernkompetenz: Verarbeiten statt Generieren
+## Die neue Kernkompetenz: Verarbeiten statt Generieren
 
 Vielleicht ist die wichtigste Fähigkeit der kommenden Jahre nicht das Prompten, sondern das Prüfen.  
 AI generiert Antworten.  
@@ -68,20 +71,16 @@ Aber Denken heißt, sie zu hinterfragen und Verantwortung für das Ergebnis zu �
 
 Wir brauchen keine Angst vor künstlicher Intelligenz haben. Aber wir sollten Respekt haben vor der Versuchung, ihr zu leicht zu vertrauen und es uns zu bequem mit den wohlklingenden Antworten, die sie uns gibt, zu machen.
 
-# Fazit
+## Fazit
 
 AI macht uns nicht dümmer.  
 Aber es ist verlockend, es sich bequem zu machen.  
 Ob sie unser Denken schwächt oder stärkt, hängt davon ab, ob wir bereit sind, mit und nicht statt der Maschine zu denken.
 
-# Quellen
+## Quellen
 
-- Kosmyna et al. (2025, Preprint): Your Brain on ChatGPT – EEG-Studie des MIT Media Lab zu LLM-Nutzung.
-    
-- Sparrow, Liu & Wegner (2011): Google Effects on Memory – Science-Artikel zum transaktiven Gedächtnis.
-    
-- Skulmowski (2023): The Cognitive Architecture of Digital Externalization – Review zu digitalem Offloading.
-    
-- Meta-Analyse (2025): Effects of Cognitive Offloading on Memory Tasks – Leistungs-Trade-offs und Kontextabhängigkeit.
-    
-- Carr (2008): Is Google Making Us Stupid? – Essay als kulturkritischer Bezugspunkt.
+Kosmyna et al. (2025, Preprint): Your Brain on ChatGPT – EEG-Studie des MIT Media Lab zu LLM-Nutzung.
+Sparrow, Liu & Wegner (2011): Google Effects on Memory – Science-Artikel zum transaktiven Gedächtnis.
+Skulmowski (2023): The Cognitive Architecture of Digital Externalization – Review zu digitalem Offloading.
+Meta-Analyse (2025): Effects of Cognitive Offloading on Memory Tasks – Leistungs-Trade-offs und Kontextabhängigkeit.
+Carr (2008): Is Google Making Us Stupid? – Essay als kulturkritischer Bezugspunkt.

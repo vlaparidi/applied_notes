@@ -4,6 +4,9 @@ description: "Principal-Agent-Problem im KI-Zeitalter."
 date: "2026-01-23"
 ---
 
+# Wenn Wissen kein Machtfaktor mehr ist
+Principal-Agent-Problem im KI-Zeitalter.
+
 ## Einstieg
 
 Wer im BWL-Grundstudium aufgepasst hat, wird sich noch an den Begriff „Principal-Agent-Problem" oder die dazugehörige Theorie erinnern. Es ist eines der grundlegenden Probleme in der Interaktion zwischen Menschen. Die Theorie dahinter ist relativ simpel und einleuchtend, jeder von uns hat das Problem schon selbst bewusst oder unbewusst erlebt, ob im beruflichen oder privaten Kontext. Mal in der Rolle des Principal, mal als Agent.
